@@ -5,7 +5,7 @@ This project was built as a submission for Hacktoon 2021. Entered in the categor
 ## What this project does
 This takes in an uploaded image from the user and uses the faces that are identified in the image and matches it to the most similar face found in a database of comic characters 
 ## How this was built
-
+First I used Figma to design what I envisioned the site to look like. After that in Visual Studio Code, I created the html and css files necessary to build this site.  
 ## What is next for this project
 
 

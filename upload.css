@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    margin:  0;
+    padding: 0;
+    width:  100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    font-family: 'Bangers';
+}
+
+p {
+    font-family: 'Montserrat';
+    color:#0C090D;
+    font-size: 30px;
+    text-align: center;
+}
